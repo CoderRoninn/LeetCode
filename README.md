@@ -1,1 +1,1 @@
-# LeetCode
+Welcome to my LeetCode solutions repository! Here, you'll find my solutions to various LeetCode problems implemented in Python, each accompanied by a brief description and an explanation of the approach used.
